@@ -1,0 +1,67 @@
+body {
+  font-family: arial;
+  text-align: center;
+  margin: 0;
+}
+
+#main-h1 {
+  font-size: 50px;
+  color: #555;
+}
+
+main {
+  width: 70%;
+  margin: 80px auto 100px auto;
+}
+
+.dogs {
+  background-color: lightblue;
+  padding: 30px 30px 100px 30px;
+}
+
+.dog-pics {
+  float: left;
+  margin-top: 30px;
+  margin-right: 20px;
+}
+
+.dog-pic {
+  display: block;
+  border: 5px solid white;
+  margin: 10px;
+}
+
+.dogs h1 {
+  font-size: 40px;
+  color: white;
+}
+
+.dog-text {
+  background-color: lightgoldenrodyellow;
+  padding: 100px;
+  margin-left: 150px;
+  text-align: left;
+}
+
+.cats h1 {
+  font-size: 40px;
+  color: #555;
+}
+
+.cat-pic {
+  margin: 50px 20px;
+  border: 10px solid lightgray;
+}
+
+.cat-text {
+  background-color: palevioletred;
+  color: white;
+  padding: 150px 100px;
+  margin-top: -120px;
+}
+
+footer {
+  padding: 40px;
+  background-color: lightgray;
+  margin-top: -20px;
+}
